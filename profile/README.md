@@ -1,7 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/hexforge-hive-github-banner-dark.png">
-  <img alt="Hexforge Hive · Software forjado para funcionar." src="./assets/hexforge-hive-github-banner-light.png" width="100%">
-</picture>
+<img alt="Hexforge Hive · Software forjado para funcionar." src="./assets/hexforge-hive-github-banner-dark.png" width="100%">
 
 ## Hola, somos Hexforge Hive
 
